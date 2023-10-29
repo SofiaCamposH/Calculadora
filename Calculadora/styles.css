@@ -1,0 +1,26 @@
+body {
+    background-image: url("images/fondo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+    font-family: fantasy;
+    font: size 500px;
+}
+
+label {
+    color: aliceblue;
+    font-family: fantasy;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(55, 55, 124);
+    align-items: center;
+}
